@@ -1,0 +1,12 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Homework 3 Images</title>
+  </head>
+  <body>
+    <h1>Homework 3 Images</h1>
+    <img src="homework3-pt1.jpg" alt="Homework 2 Image 1" width="600">
+    <br><br>
+    <a href="index.html">Back to Home</a>
+  </body>
+</html>
